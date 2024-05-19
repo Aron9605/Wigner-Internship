@@ -4,7 +4,7 @@
 ## Objective:
 
 <p align="justify">
-This assignment involves understanding a specific quantum protocol described in [[Measurement induced chaos with entangled states](https://arxiv.org/abs/1104.3107)], implementing it in Python, and evaluating its performance. The task includes a simulation of the protocol, iterating it multiple times, and calculating the fidelity of the resulting quantum state with a Bell+ state.
+This assignment involves understanding a specific quantum protocol described in [ [Measurement induced chaos with entangled states](https://arxiv.org/abs/1104.3107) ], implementing it in Python, and evaluating its performance. The task includes a simulation of the protocol, iterating it multiple times, and calculating the fidelity of the resulting quantum state with a Bell+ state.
 
 
 **Steps**:
@@ -23,7 +23,7 @@ Create another function that applies the protocol function iteratively for a spe
 
   4. Calculate Fidelity:
 
-Implement a function that calculates the fidelity between the output state of the protocol and the Bell+ state.
+Implement a function that calculates the fidelity between the output state of the protocol and the | pp + > Bell state.
 
-Ensure to test your code thoroughly to confirm that it obeys to the protocol and produces the expected outcomes.
+_Ensure to test your code thoroughly to confirm that it obeys to the protocol and produces the expected outcomes._
 </p>
